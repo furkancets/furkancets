@@ -15,15 +15,6 @@
 <a href="mailto:furkancets@gmail.co">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
 </a>
-<a href="https://www.kaggle.com/furkancets">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
-</a>
-<a href="https://medium.com/@furkancets">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white`" alt="Medium">
-</a>
-<a href="https://stackoverflow.com/users/21575143/furkancets">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow">
-</a>
 
 <a href="https://github.com/furkancets">
     <img src="https://github-stats-alpha.vercel.app/api?username=furkancets&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
