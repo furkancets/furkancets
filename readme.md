@@ -1,6 +1,6 @@
 **Hi, I am Furkan!**
 
-## I am a coder guy who interested with machine learning.
+## I am a coder who interested with machine learning.
 
 * 💻 currently working as a Data Engineer.
 * 🎓 graduated from Management Electric-Electronic Engineering.
