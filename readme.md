@@ -3,7 +3,7 @@
 ## I am a coder who interested with machine learning.
 
 * 💻 currently working as a Data Engineer.
-* 🎓 graduated from Management Electric-Electronic Engineering.
+* 🎓 graduated from Electric-Electronic Engineering.
 * ☁️ trying to develop myself in Machine Learning Engineering end-to-end roubust pipelines.
 
 <a href="https://github.com/furkancets">
